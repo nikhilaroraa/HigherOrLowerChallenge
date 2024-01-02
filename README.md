@@ -1,0 +1,2 @@
+# High-Low Card Challenge Game
+The created game implements a console-based Python card game known as the "High-Low Card Challenge." This interactive program engages users in a series of rounds where they predict whether a randomly drawn card will be higher or lower than the previous one. The game prompts players to place bets on their predictions, adding or deducting points based on the accuracy of their guesses.
